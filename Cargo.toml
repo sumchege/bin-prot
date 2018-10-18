@@ -1,0 +1,7 @@
+[package]
+name = "bin_prot"
+version = "0.1.0"
+authors = ["User"]
+
+[dependencies]
+nom = "4.1.1"
